@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yni
 - 👀 I’m interested in SCP Foundation Community
 - 🌱 I’m currently learning C# and Unity (Fully learned: nothing :( )
-- 💞️ I’m looking to collaborate on various SCP projects.
+- 💞️ I’m looking to collaborate on various SCP projects(only to translate or to help (because I do not know fully any programming language).
 - 📫 How to reach me
 - Discord: Yni#3700
 
