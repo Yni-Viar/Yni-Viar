@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yni
 - 👀 I’m interested in SCP Foundation Community
-- 🌱 I’m currently learning Python, Unity and Godot Engine (Partially learned C#)
+- 🌱 I’m currently learning Python, C#, C++ and Godot Engine
 <!---
-- 💞️ I’m looking to collaborate on various SCP projects(only to translate or to help (because I do not know fully any programming language)).
+- 💞️ I’m looking to collaborate on ... nothing.
 - 📫 How to reach me
 - some link...
 
