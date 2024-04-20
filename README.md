@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Yni
-- 👀 I’m interested in SCP Foundation Community.
+- 👀 I’m interested in gamedev.
 - 💞️ I’m looking to collaborate on free and open-source projects (maybe proprietary, but please, read p.😒).
 - 😒 I don’t like collaborating in proprietary projects (except my own projects), because of possible copyright problems in my FOSS projects.
 - 🌱 I partially know C#, Python/GDScript and Godot Engine.
