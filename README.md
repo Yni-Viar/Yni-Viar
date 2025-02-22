@@ -1,9 +1,9 @@
 - 👋 Hello, I’m Yni
 - 👀 I’m interested in gamedev.
 - 💞️ I’m looking to collaborate on free and open-source projects (maybe proprietary, but please, read p.😒).
-- 😒 I don’t like collaborating in proprietary projects (except my own projects), because of possible copyright problems in my FOSS projects.
-- 🌱 I know C#, Python/GDScript and Godot Engine.
-- 🌱 I plan to learn C++.
+- 😒 I can collaborate in proprietary/paid games/projects, but I'd like to continue my own projects WITHOUT any copyright violations.
+- 🌱 I know C# (1 year of practice), Python (recently learned), Godot Engine/GDScript (2 years of practice).
+- 🌱 I plan to learn C++, Unreal Engine 5 and Django.
 
 
 - 📫 How to reach me - [website](https://yni-viar.github.io/index.html)
