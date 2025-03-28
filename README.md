@@ -5,8 +5,8 @@
 - 🌱 I know C# (1 year of practice), Python (recently learned), Godot Engine/GDScript (2 years of practice).
 - 🌱 I plan to learn C++, Unreal Engine 5 and Django.
 
-
 - 📫 How to reach me - [website](https://yni-viar.github.io/index.html)
+- 💻 Other social media: [GameJolt](https://gamejolt.com/@Yni_Viar), [itch.io](https://yniviar.itch.io/)
 <!---
 Yni-Viar/Yni-Viar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
