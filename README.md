@@ -6,6 +6,8 @@
 - 🌱 I am learning C, C++, Unreal Engine 5.
 
 - 📫 How to reach me: [GameJolt](https://gamejolt.com/@Yni_Viar), [itch.io](https://yniviar.itch.io/)
+
+[How to install Android version after 2026 guide](https://github.com/Yni-Viar/Yni-Viar/blob/main/google-android-2026-foss.md)
 <!--- - 💻 Other social media: 
 
 Yni-Viar/Yni-Viar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
