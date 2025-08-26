@@ -1,6 +1,7 @@
 # About Unity port.
 
-I won't port my map generator to Unity in foreseeable future.
+> Update 2025.08
+> I am trying to port my map generator to Unity, but it is not a priority for me.
 
 Moreover, a better Unity SCP-like map generator already exists, and it is MIT-licensed.
 
