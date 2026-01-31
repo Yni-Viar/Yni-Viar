@@ -4,10 +4,11 @@
 - 🔒 I can collaborate in proprietary/paid games/projects, but I'd like to continue my own projects WITHOUT any copyright violations.
 - 🌱 I know C# (1 year of practice), Python (recently learned), Godot Engine/GDScript (2.5 years of practice), C++ (recently learned).
 <!-- - 🌱 I am learning C, C++, Unreal Engine 5.-->
+- 💻 Other social media: [GameJolt](https://gamejolt.com/@Yni_Viar)
 
-- 📫 How to reach me: [GameJolt](https://gamejolt.com/@Yni_Viar)
-
-<!--- - 💻 Other social media: 
+[I've made a tutorial to install Android apks since Sep 2026/2027](./google-android-2026-foss.md)
+<!--
+- - 📫 How to reach me: 
 
 Yni-Viar/Yni-Viar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
