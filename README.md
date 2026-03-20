@@ -6,7 +6,6 @@
 <!-- - 🌱 I am learning C, C++, Unreal Engine 5.-->
 - 💻 Other social media: [GameJolt](https://gamejolt.com/@Yni_Viar)
 
-[I've made a tutorial to install Android apks since Sep 2026/2027](./google-android-2026-foss.md)
 <!--
 - - 📫 How to reach me: 
 
