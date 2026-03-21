@@ -2,7 +2,7 @@
 - 👀 I’m interested in gamedev.
 - 💞️ I’m looking to collaborate on free and open-source projects (maybe proprietary, but please, read p.😒).
 - 🔒 I can collaborate in proprietary/paid games/projects, but I'd like to continue my own projects WITHOUT any copyright violations.
-- 🌱 I know C# (1 year of practice), Python (recently learned), Godot Engine/GDScript (2.5 years of practice), C++ (recently learned).
+- 🌱 I know C# (1 year of practice), Python (recently learned), Godot Engine/GDScript (3 years of practice), C++ (recently learned).
 <!-- - 🌱 I am learning C, C++, Unreal Engine 5.-->
 - 💻 Other social media: [GameJolt](https://gamejolt.com/@Yni_Viar)
 
