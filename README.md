@@ -22,5 +22,5 @@ You can click the Preview link to take a look at your changes.
 > ⚠️ I am NOT a verified Android developer, and due to recent changes, please, check [tutorial to install apps without Google verification (effective since Jan 2027)](https://android-developers.googleblog.com/2026/03/android-developer-verification.html), if you want to play my games on Google version of Android (AOSP-based firmware does not have this requirement)
 
 - Hikkan (2026)
-- SCP: Continued Prcoedures (2025-2026)
+- SCP: Continued Procedures (2025-2026)
 - Sculpture Wanderer (2026)
