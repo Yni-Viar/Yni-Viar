@@ -6,7 +6,7 @@
 - 🔒 I can collaborate in proprietary/paid games/projects, but I'd like to continue my own projects WITHOUT any copyright violations.
 - 🌱 I know C# (1 year of practice), Python (recently learned), Godot Engine/GDScript (3 years of practice), C (recently learned), C++ (recently learned).
 <!-- - 🌱 I am learning C, C++, Unreal Engine 5.-->
-- 💻 Other social media: [GameJolt](https://gamejolt.com/@Yni_Viar)
+- 💻 Other social media: [GameJolt](https://gamejolt.com/@Yni_Viar), [itch.io](https://yniviar.itch.io/)
 
 <!--
 - - 📫 How to reach me: 
